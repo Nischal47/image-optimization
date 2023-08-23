@@ -1,0 +1,6 @@
+#environment
+myenv  
+
+#ide
+.vscode
+.idea
